@@ -1,0 +1,2 @@
+rootProject.name = "VisionBoard"
+include ':app'
